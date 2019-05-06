@@ -8,6 +8,8 @@ stackEdit stores your documents in your browerser, which means all your document
 
 > **Note:**
 > * StackEdit is accessible offline after the application has been loaded for the first time.
+>    * sdkd 
+>    * daldsf
 > * Your local documents are not shares between different browsers or computers.
 > * Clearing your brower's data may **delete all your local document!** Make sure your documents are synchronized with **Google Drive or Dropbox**(check out the synchronization section).
 
@@ -35,6 +37,15 @@ You can save the current document to a file by clicking **Export to disk** from 
 
 #### Synchronization
 
-修改测试1
+![缩略图](google.png "googel")
 
-修改测试2
+[简书](http://jianshu.com)
+
+|表头 | 表头 | 表头|
+|--:|:--|:--|
+|内容1sd   | 内容2 | 内容3|
+|内容4 | 内容5d| 内容6|
+
+    function(a,b){
+        return a+b;
+    }
